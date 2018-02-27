@@ -117,6 +117,11 @@ Running with input/output files
 ./rank t -i sample-input.txt -o output.txt
 ```
 
+Running with an input file and printing to stdout
+```
+./rank t -i sample-input.txt
+```
+
 Testing
 -----------
 ```
@@ -129,12 +134,14 @@ I thought it would be fun to compare the output of our rankings algorithm to
 actual NHL rankings for the 2016-2017 season.
 
 Sources:
-https://www.hockey-reference.com/leagues/NHL_2017_games.html
-https://www.hockey-reference.com/leagues/NHL_2017_standings.html
+- [2016-2017 NHL Games](https://www.hockey-reference.com/leagues/NHL_2017_games.html)
+- [2016-2017 NHL Standings](https://www.hockey-reference.com/leagues/NHL_2017_standings.html)
+
+You can run the script on the dataset yourself with the following command
 
 `./rank t -i nhl2016-2017.txt`
 
-results in the following rankings
+which results in the following rankings
 
 ```
 1. Washington Capitals, 165 pts
@@ -169,8 +176,8 @@ results in the following rankings
 30. Colorado Avalanche, 67 pts
 ```
 
-which are close but not identical to the actual NHL standings, which are
-calculated by the following method:
+they are close but not identical to the actual NHL standings, which
+calculated using the following method:
 
 ```
 Teams are awarded two points for each win, one point for each overtime or
