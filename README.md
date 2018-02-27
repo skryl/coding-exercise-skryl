@@ -64,7 +64,7 @@ The Solution
 
 Dependencies
 -----------
-The solution relies on the `thor` and `rspec` gems, please install them first
+My solution relies on the `thor` and `rspec` gems, please install them first
 
 ```
 bundle install
