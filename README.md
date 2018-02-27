@@ -186,34 +186,34 @@ shootout loss, and one point for each tie. Ties were eliminated as of the
 ```
 
 ```
-01  Washington Capitalss   55-19-8
-02  Pittsburgh Penguinss   50-21-11
-03  Chicago Blackhawkss    50-23-9
-04  Columbus Blue Jacketss 50-24-8
-05  Minnesota Wilds        49-25-8
-06  Anaheim Duckss         46-23-13
-07  Edmonton Oilerss       47-26-9
-08  Montreal Canadienss    47-26-9
-09  New York Rangerss      48-28-6
-10  San Jose Sharkss       46-29-7
-11  St. Louis Bluess       46-29-7
-12  Ottawa Senatorss       44-28-10
-13  Boston Bruinss         44-31-7
-14  Toronto Maple Leafss   40-27-15
-15  Calgary Flamess        45-33-4
-16  Tampa Bay Lightnings   42-30-10
-17  Nashville Predatorss   41-29-12
-18  New York Islanderss    41-29-12
-19  Philadelphia Flyerss   39-33-10
-20  Winnipeg Jetss         40-35-7
-21  Carolina Hurricaness   36-31-15
-22  Los Angeles Kingss     39-35-8
-23  Florida Pantherss      35-36-11
-24  Dallas Starss          34-37-11
-25  Detroit Red Wingss     33-36-13
-26  Buffalo Sabress        33-37-12
-27  Arizona Coyotess       30-42-10
-28  New Jersey Devilss     28-40-14
-29  Vancouver Canuckss     30-43-9
-30  Colorado Avalanches    22-56-4
+01  Washington Capitals   55-19-8
+02  Pittsburgh Penguins   50-21-11
+03  Chicago Blackhawks    50-23-9
+04  Columbus Blue Jackets 50-24-8
+05  Minnesota Wild        49-25-8
+06  Anaheim Ducks         46-23-13
+07  Edmonton Oilers       47-26-9
+08  Montreal Canadiens    47-26-9
+09  New York Rangers      48-28-6
+10  San Jose Sharks       46-29-7
+11  St. Louis Blues       46-29-7
+12  Ottawa Senators       44-28-10
+13  Boston Bruins         44-31-7
+14  Toronto Maple Leafs   40-27-15
+15  Calgary Flames        45-33-4
+16  Tampa Bay Lightning   42-30-10
+17  Nashville Predators   41-29-12
+18  New York Islanders    41-29-12
+19  Philadelphia Flyers   39-33-10
+20  Winnipeg Jets         40-35-7
+21  Carolina Hurricanes   36-31-15
+22  Los Angeles Kings     39-35-8
+23  Florida Panthers      35-36-11
+24  Dallas Stars          34-37-11
+25  Detroit Red Wings     33-36-13
+26  Buffalo Sabres        33-37-12
+27  Arizona Coyotes       30-42-10
+28  New Jersey Devils     28-40-14
+29  Vancouver Canucks     30-43-9
+30  Colorado Avalanche    22-56-4
 ```
