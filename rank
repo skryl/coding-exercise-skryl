@@ -1,0 +1,24 @@
+#!/usr/bin/env ruby
+
+require_relative 'ranking'
+
+class RankCLI < Thor
+
+  desc 'tabulate', 'tabulate rankings from game data', alias: 't'
+  option :input,  type: :string, aliases: 'i', desc: 'input  filename'
+  option :output, type: :string, aliases: 'o', desc: 'output filename'
+
+  def tabulate
+    input  = options[:input]  ? File.new(options[:input],  'r') : STDIN
+    output = options[:output] ? File.new(options[:output], 'w') : STDOUT
+
+    parser  = Ranking::Parser.new(input)
+    calc    = Ranking::Calculator.new(parser.games)
+    printer = Ranking::Printer.new(output)
+
+    printer.print(calc.ranks)
+  end
+
+end
+
+RankCLI.start(ARGV)
